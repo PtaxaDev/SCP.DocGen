@@ -100,26 +100,6 @@ cd scp-document-generator
 
 ---
 
-## 📂 Состав репозитория
-
-```
-scp-document-generator/
-│
-├── index.html          # Главный файл приложения
-├── index.js            # Логика и функциональность
-├── index.css           # Стили и оформление
-├── README.md           # Документация
-├── LICENSE             # Текст лицензии
-│
-├── img/                # Папка с изображениями
-│   ├── logo.png        # Логотип SCP Foundation
-│   └── codes/          # Полевые коды (28 файлов)
-│
-└── .gitignore          # Игнорируемые файлы
-```
-
----
-
 ## 📜 Лицензия
 
 Этот проект распространяется под лицензией **GNU General Public License v3.0**.
